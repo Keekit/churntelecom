@@ -1,0 +1,71 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,True_Label,Predicted_Label
+7526-IVLYU,Male,False,False,False,3,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,True,Mailed check,19.65,68.35,False,True
+8739-QOTTN,Female,False,True,False,2,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,20.35,41.85,False,True
+4116-IQRFR,Male,False,True,True,4,True,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,False,Credit card (automatic),24.1,73.1,False,True
+5857-XRECV,Female,False,False,True,2,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,False,Bank transfer (automatic),20.5,38.25,False,True
+5542-TBBWB,Male,False,False,False,1,True,No,Fiber optic,No,No,No,No,No,No,Month-to-month,True,Electronic check,69.9,69.9,False,True
+2018-QKYGT,Male,False,True,True,1,True,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,True,Electronic check,81.05,81.05,False,True
+6537-QLGEX,Female,False,False,False,16,False,No phone service,DSL,Yes,No,No,No,Yes,No,Month-to-month,True,Electronic check,38.9,664.4,False,True
+2931-FSOHN,Male,True,False,False,13,True,No,DSL,No,Yes,No,No,Yes,No,Month-to-month,True,Electronic check,59.9,788.35,False,True
+6870-ECSHE,Female,False,False,False,2,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,False,Mailed check,20.45,34.8,False,True
+1763-WQFUK,Male,False,False,False,3,True,No,DSL,No,No,No,Yes,No,No,Month-to-month,True,Mailed check,50.5,147.75,False,True
+2043-WVTQJ,Male,False,True,False,1,True,No,DSL,Yes,No,Yes,No,No,No,Month-to-month,False,Mailed check,55.7,55.7,False,True
+9481-SFCQY,Female,False,False,True,14,True,No,DSL,No,No,Yes,No,Yes,No,Month-to-month,True,Credit card (automatic),59.8,824.85,False,True
+2969-QWUBZ,Female,False,False,False,2,False,No phone service,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,False,Electronic check,51.4,96.8,False,True
+4608-LCIMN,Male,False,True,True,8,True,No,DSL,No,No,No,No,No,No,Month-to-month,False,Bank transfer (automatic),44.65,369.15,False,True
+7176-WIONM,Female,False,True,False,12,False,No phone service,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,True,Bank transfer (automatic),49.85,617.15,False,True
+1728-BQDMA,Female,False,False,False,2,True,No,Fiber optic,No,No,No,No,No,No,Month-to-month,False,Electronic check,44.45,82.7,False,True
+8356-WUAOJ,Female,False,True,False,1,True,No,Fiber optic,No,No,No,No,No,No,Month-to-month,True,Electronic check,45.0,45.0,False,True
+4020-KIUDI,Male,False,True,True,6,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Credit card (automatic),19.85,138.85,False,True
+6542-LWGXJ,Male,False,True,False,3,False,No phone service,Fiber optic,No,No,No,No,No,No,Month-to-month,False,Mailed check,25.0,78.25,False,True
+6344-SFJVH,Female,False,False,False,20,False,No phone service,DSL,No,No,No,No,No,No,Month-to-month,False,Credit card (automatic),24.9,505.95,False,True
+6133-OZILE,Female,False,False,False,18,False,No phone service,DSL,No,No,Yes,Yes,No,No,Month-to-month,True,Electronic check,35.2,607.3,False,True
+7049-GKVZY,Female,False,False,False,17,True,No,DSL,Yes,Yes,No,Yes,Yes,Yes,One year,False,Credit card (automatic),79.85,1387.35,False,True
+3995-WFCSM,Female,False,False,False,2,True,No,DSL,No,No,Yes,No,No,Yes,Month-to-month,False,Electronic check,60.85,111.4,False,True
+7311-MQJCH,Female,False,False,False,5,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,False,Electronic check,19.55,99.6,False,True
+5215-LNLDJ,Female,False,True,True,7,False,No phone service,DSL,No,No,No,No,No,No,Month-to-month,True,Electronic check,24.7,149.05,False,True
+9108-EJFJP,Female,False,True,False,1,True,No,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,True,Mailed check,53.55,53.55,False,True
+5619-XZZKR,Male,False,False,False,4,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,False,Mailed check,19.95,68.2,False,True
+6218-KNUBD,Male,False,False,False,6,True,No,DSL,No,Yes,No,No,Yes,No,Month-to-month,False,Electronic check,59.45,357.6,False,True
+4310-KEDTB,Female,False,False,True,26,False,No phone service,DSL,No,No,Yes,No,No,No,Month-to-month,True,Mailed check,29.8,786.5,False,True
+9050-IKDZA,Female,True,False,False,2,True,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,False,Mailed check,81.5,162.55,False,True
+7421-ZLUPA,Female,False,False,False,8,False,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,True,Mailed check,29.25,226.95,False,True
+8167-GJLRN,Male,False,False,False,3,False,No phone service,Fiber optic,No,No,No,Yes,No,No,Month-to-month,False,Electronic check,30.4,82.15,False,True
+7013-PSXHK,Female,False,False,False,40,True,Yes,DSL,No,No,Yes,Yes,Yes,Yes,One year,True,Mailed check,80.75,3208.65,False,True
+5091-HFAZW,Female,False,False,False,2,True,No,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,True,Electronic check,91.15,168.5,False,True
+7853-OETYL,Female,False,True,False,4,False,No phone service,Fiber optic,Yes,No,No,No,No,No,Month-to-month,True,Electronic check,29.05,129.6,False,True
+6127-IYJOZ,Male,True,False,False,1,True,No,Fiber optic,No,No,No,No,No,No,Month-to-month,True,Mailed check,45.85,45.85,False,True
+0856-NAOES,Male,False,False,False,6,True,No,DSL,No,No,Yes,No,Yes,No,Month-to-month,False,Mailed check,60.9,414.1,False,True
+5173-ZXXXL,Male,False,False,False,2,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,False,Mailed check,19.95,47.7,False,True
+3179-GBRWV,Male,True,True,False,21,True,No,DSL,Yes,Yes,No,No,No,Yes,Month-to-month,True,Bank transfer (automatic),64.95,1339.8,False,True
+4450-YOOHP,Female,False,False,False,39,False,No phone service,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,True,Credit card (automatic),50.65,1905.4,False,True
+0463-WZZKO,Male,False,False,False,3,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,True,Credit card (automatic),20.75,67.1,False,True
+7754-IXRMC,Female,False,False,False,1,True,No,Fiber optic,No,No,No,No,No,No,Month-to-month,False,Mailed check,45.35,45.35,False,True
+9277-JOOMO,Female,False,False,False,3,True,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,24.6,86.35,False,True
+3407-QGWLG,Male,False,False,True,3,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,True,Mailed check,20.05,75.45,False,True
+0754-EEBDC,Male,False,True,True,4,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,False,Mailed check,19.9,76.65,False,True
+6137-NICCO,Female,False,True,True,6,True,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,True,Mailed check,94.05,518.75,False,True
+9605-WGJVW,Female,True,False,False,1,True,No,Fiber optic,No,No,No,No,No,No,Month-to-month,True,Electronic check,70.2,70.2,False,True
+7968-QUXNS,Male,False,False,False,6,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,18.95,110.15,False,True
+1855-CFULU,Female,True,False,False,4,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,20.05,91.45,False,True
+5868-YTYKS,Male,False,False,True,1,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,True,Mailed check,20.25,20.25,False,True
+1064-FBXNK,Male,False,True,True,1,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,False,Credit card (automatic),19.85,19.85,False,True
+6286-SUUWT,Male,False,False,False,1,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,19.95,19.95,False,True
+3308-MHOOC,Male,False,False,True,1,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,True,Mailed check,19.2,19.2,False,True
+1755-RMCXH,Male,False,True,True,2,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,20.3,40.25,False,True
+8752-IMQOS,Male,False,True,True,5,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,False,Mailed check,20.1,85.1,False,True
+7245-NIIWQ,Female,False,False,False,3,True,No,Fiber optic,No,No,No,No,No,No,Month-to-month,True,Electronic check,69.85,199.85,False,True
+0212-ISBBF,Female,False,False,False,22,False,No phone service,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,True,Electronic check,50.35,1098.85,False,True
+9342-VNIMQ,Male,False,False,False,33,True,Yes,DSL,No,Yes,No,No,No,No,Month-to-month,True,Bank transfer (automatic),54.65,1665.2,False,True
+5712-VBOXD,Female,False,False,False,4,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,True,Credit card (automatic),20.15,68.45,False,True
+8203-XJZRC,Male,False,False,False,1,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,20.25,20.25,False,True
+2080-SRCDE,Female,False,False,True,1,True,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,25.4,25.4,False,True
+7291-CDTMJ,Male,False,False,False,1,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,True,Bank transfer (automatic),19.65,19.65,False,True
+4223-WOZCM,Male,True,False,False,2,True,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,False,Mailed check,49.95,107.1,False,True
+5651-CPDND,Male,False,False,False,10,True,No,DSL,No,No,No,No,No,No,Month-to-month,False,Mailed check,46.0,492.1,False,True
+9840-EFJQB,Female,False,False,False,1,True,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,False,Electronic check,74.35,74.35,False,True
+1928-BXYIV,Male,False,False,False,1,True,Yes,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,False,Electronic check,61.15,61.15,False,True
+5309-TAIKL,Female,False,False,False,7,True,No,DSL,No,No,Yes,Yes,No,Yes,Month-to-month,False,Bank transfer (automatic),62.8,418.3,False,True
+1386-ZIKUV,Male,False,False,False,7,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,True,Mailed check,18.95,130.55,False,True
+9975-SKRNR,Male,False,False,False,1,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,18.9,18.9,False,True
+1465-WCZVT,Female,False,True,True,3,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,19.65,60.65,False,True

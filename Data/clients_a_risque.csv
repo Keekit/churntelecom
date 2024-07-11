@@ -1,0 +1,428 @@
+gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,customerID,probability
+Male,False,False,False,1,True,No,Fiber optic,No,No,No,No,No,No,Month-to-month,True,Electronic check,44.8,44.8,8705-WZCYL,0.5742176703951993
+Female,False,False,True,1,True,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,24.0,24.0,5701-SVCWR,0.7097491271432408
+Male,False,True,False,47,True,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,True,Electronic check,109.55,5124.55,6599-RCLCJ,0.9283623652333329
+Male,False,False,False,1,True,No,DSL,No,Yes,No,No,No,No,Month-to-month,False,Mailed check,50.65,50.65,6905-NIQIN,0.8866913143589101
+Male,False,False,False,2,True,No,DSL,Yes,No,No,No,No,No,Month-to-month,True,Electronic check,47.8,92.45,7377-DMMRI,0.7857604896965174
+Female,True,False,False,47,True,Yes,DSL,No,Yes,No,Yes,Yes,No,Month-to-month,True,Electronic check,95.05,4504.55,1095-JUDTC,0.8840371502136208
+Male,False,False,True,2,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,20.4,42.9,2410-CIYFZ,0.6609081367155156
+Male,False,True,True,11,True,Yes,DSL,No,No,No,No,No,No,Month-to-month,True,Electronic check,74.35,834.2,1867-BDVFH,0.8678449028618621
+Female,True,False,False,26,True,Yes,DSL,Yes,Yes,No,No,No,Yes,Month-to-month,True,Electronic check,95.0,2497.2,1597-LHYNC,0.9697318609660381
+Male,False,True,True,49,True,Yes,DSL,No,No,No,No,Yes,No,Month-to-month,False,Electronic check,84.5,4254.85,6172-FECYY,0.9026798781713642
+Male,False,False,False,3,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,True,Mailed check,19.65,68.35,7526-IVLYU,0.7244936741753187
+Male,False,False,True,1,True,No,DSL,No,No,No,Yes,No,No,Month-to-month,True,Mailed check,49.9,49.9,7623-TRNQN,0.8555220356859301
+Female,True,False,False,2,True,No,Fiber optic,No,No,No,No,No,No,Month-to-month,True,Electronic check,70.35,139.05,5804-LEPIM,0.7608091840548235
+Female,True,False,False,16,True,No,DSL,No,No,No,Yes,Yes,No,Month-to-month,False,Electronic check,59.4,1023.9,8679-JOEVF,0.6219923246196128
+Male,True,True,True,8,True,No,DSL,No,No,No,No,Yes,No,Month-to-month,True,Credit card (automatic),80.45,583.45,2397-BRLOM,0.8624061102831594
+Female,False,False,True,4,True,No,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,True,Bank transfer (automatic),98.1,396.3,7295-JOMMD,0.9152941176470588
+Female,False,True,False,2,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,20.35,41.85,8739-QOTTN,0.5617891096304026
+Male,True,True,False,52,True,Yes,DSL,Yes,No,Yes,No,Yes,Yes,Month-to-month,True,Electronic check,104.2,5568.35,5385-SUIRI,0.9620476190476189
+Male,False,True,True,4,True,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,False,Credit card (automatic),24.1,73.1,4116-IQRFR,0.7284863077901531
+Male,False,True,False,5,True,Yes,DSL,No,Yes,No,No,No,No,Month-to-month,True,Electronic check,81.3,416.3,4143-OOBWZ,0.9496761904761903
+Female,True,True,False,1,True,No,DSL,No,No,No,No,No,No,Month-to-month,True,Mailed check,70.45,70.45,0390-DCFDQ,0.9959749294225101
+Female,False,False,True,2,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,False,Bank transfer (automatic),20.5,38.25,5857-XRECV,0.6600987932280442
+Male,False,False,False,1,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,True,Mailed check,20.45,20.45,5996-DAOQL,0.5708411339367623
+Male,False,True,True,2,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,False,Mailed check,20.2,34.75,4697-LUPSU,0.8694254948196796
+Female,False,False,False,2,True,No,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,True,Electronic check,80.45,137.1,6923-JHPMP,0.7854537415099152
+Female,False,False,False,6,False,No phone service,Fiber optic,Yes,Yes,No,Yes,No,Yes,Month-to-month,False,Credit card (automatic),50.95,307.6,7351-MHQVU,0.5285368914504636
+Male,False,False,False,69,True,No,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,True,Bank transfer (automatic),104.05,7262.0,6305-YLBMM,0.8995897435897436
+Male,False,False,False,1,True,No,Fiber optic,No,No,No,No,No,No,Month-to-month,True,Electronic check,69.9,69.9,5542-TBBWB,0.8211636913884172
+Male,False,False,True,1,True,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,True,Electronic check,75.35,75.35,5054-IEXZT,0.6363394087827391
+Male,True,True,False,4,True,No,Fiber optic,No,No,No,No,No,No,Month-to-month,True,Electronic check,70.2,280.35,7044-YAACC,0.65018291980401
+Male,False,False,False,1,True,Yes,DSL,No,No,No,No,No,Yes,Month-to-month,True,Electronic check,86.6,86.6,8603-IJWDN,0.9853467292057985
+Male,False,True,False,9,True,No,DSL,No,Yes,Yes,Yes,Yes,No,Month-to-month,True,Mailed check,94.85,890.6,2344-JMOGN,0.8097026813609368
+Male,False,True,False,22,True,No,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,True,Credit card (automatic),94.7,1914.9,3647-GMGDH,0.8957921611800728
+Male,False,True,True,1,True,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,True,Electronic check,81.05,81.05,2018-QKYGT,0.7303364253023464
+Male,False,False,False,54,True,No,DSL,Yes,Yes,No,Yes,Yes,Yes,One year,True,Credit card (automatic),105.4,5643.4,7055-VKGDA,0.9083004052684903
+Female,False,True,False,58,True,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,Two year,True,Bank transfer (automatic),109.45,6144.55,5089-IFSDP,0.7636279069767443
+Male,True,True,False,69,True,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,True,Bank transfer (automatic),108.4,7318.2,5440-FLBQG,0.8105838040834437
+Female,False,False,False,16,False,No phone service,DSL,Yes,No,No,No,Yes,No,Month-to-month,True,Electronic check,38.9,664.4,6537-QLGEX,0.7295190310417796
+Male,True,False,False,24,True,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Month-to-month,True,Credit card (automatic),102.95,2496.7,2034-CGRHZ,0.9460278271278271
+Male,False,False,False,2,True,No,DSL,Yes,No,No,No,No,No,Month-to-month,True,Electronic check,75.7,189.2,8433-WXGNA,0.8744624507390572
+Male,False,False,False,1,False,No phone service,DSL,No,No,No,No,No,No,Month-to-month,True,Electronic check,24.25,24.25,1334-FJSVR,0.9378835861291408
+Male,False,False,False,7,True,No,DSL,Yes,No,No,No,No,No,Month-to-month,True,Mailed check,51.0,354.05,2207-OBZNX,0.5120585732859209
+Male,True,False,False,13,True,No,DSL,No,Yes,No,No,Yes,No,Month-to-month,True,Electronic check,59.9,788.35,2931-FSOHN,0.6386533476944591
+Female,False,False,False,2,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,False,Mailed check,20.45,34.8,6870-ECSHE,0.5840305647080146
+Female,True,True,False,1,True,Yes,DSL,No,Yes,No,No,Yes,No,Month-to-month,True,Electronic check,90.6,90.6,8775-LHDJH,1.0
+Female,True,True,False,3,True,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,True,Electronic check,80.4,224.05,4086-YQSNZ,0.5467427467906787
+Male,False,False,False,1,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,19.2,19.2,1663-MHLHE,0.5024093357029212
+Male,False,False,True,1,True,No,Fiber optic,No,No,No,Yes,No,Yes,Month-to-month,True,Mailed check,59.55,59.55,2853-CWQFQ,0.6979466732152153
+Male,False,False,False,51,True,Yes,DSL,Yes,Yes,No,No,Yes,No,One year,True,Electronic check,94.8,4837.6,8945-MUQUF,0.7556563958916901
+Female,False,False,False,1,True,No,DSL,No,No,No,No,No,Yes,Month-to-month,True,Electronic check,55.4,55.4,3063-QFSZL,0.9420201419773435
+Male,False,False,False,3,True,No,DSL,No,No,No,Yes,No,No,Month-to-month,True,Mailed check,50.5,147.75,1763-WQFUK,0.6731041109185927
+Female,True,False,False,15,True,Yes,DSL,No,No,No,No,No,No,Month-to-month,True,Mailed check,74.45,1145.7,2656-FMOKZ,0.9042143202621162
+Male,True,False,False,10,True,Yes,DSL,No,No,No,No,Yes,Yes,Month-to-month,True,Electronic check,95.35,898.35,2660-EMUBI,0.9438126808119701
+Female,False,False,True,1,True,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,True,Electronic check,79.35,79.35,5919-TMRGD,0.767232114118102
+Male,False,True,False,4,True,Yes,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,True,Electronic check,100.2,420.2,2656-TABEH,0.9766761904761904
+Female,False,False,False,2,True,No,DSL,No,No,No,No,No,No,Month-to-month,False,Bank transfer (automatic),69.75,144.55,6166-ILMNY,0.9887432179768245
+Male,True,False,False,22,True,Yes,DSL,No,No,No,No,Yes,Yes,Month-to-month,True,Electronic check,96.7,2082.95,9809-IMGCQ,0.9322664720012865
+Female,False,False,False,1,True,Yes,DSL,No,No,No,No,No,No,Month-to-month,True,Mailed check,50.1,50.1,4749-VFKVB,0.9004363831744502
+Female,True,True,False,1,True,No,DSL,Yes,No,No,No,No,No,Month-to-month,True,Electronic check,49.55,49.55,2722-JMONI,0.686624276521142
+Female,True,False,False,43,True,No,DSL,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,True,Credit card (automatic),108.15,4600.7,6179-GJPSO,0.8238451383132235
+Female,False,False,False,2,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,19.5,31.55,0883-EIBTI,0.738367945403324
+Male,False,True,True,30,True,Yes,DSL,Yes,Yes,No,No,Yes,No,Month-to-month,True,Electronic check,94.4,2838.7,9574-RKJIF,0.8777245594440309
+Female,False,True,False,57,True,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Month-to-month,True,Credit card (automatic),104.5,5921.35,6771-XWBDM,0.9884615384615384
+Male,False,False,False,49,True,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Month-to-month,True,Bank transfer (automatic),103.7,5036.3,0280-XJGEX,0.9624519480519481
+Female,True,False,False,30,True,Yes,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,True,Electronic check,99.7,2967.35,6543-XRMYR,0.9716920783618896
+Male,False,False,False,2,True,No,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,True,Electronic check,85.85,167.3,0220-EBGCE,0.6931768532506759
+Male,False,True,False,1,True,No,DSL,Yes,No,Yes,No,No,No,Month-to-month,False,Mailed check,55.7,55.7,2043-WVTQJ,0.6524620178109355
+Male,False,False,False,1,True,Yes,DSL,No,No,No,No,No,No,Month-to-month,True,Electronic check,75.45,75.45,5834-ASPWA,0.9649822600360031
+Male,True,True,False,18,True,No,DSL,No,No,No,No,No,Yes,Month-to-month,False,Electronic check,78.55,1422.65,6877-LGWXO,0.9128115983633225
+Female,False,False,False,1,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,20.4,20.4,1963-VAUKV,0.5803965553614591
+Female,False,True,True,2,True,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,True,Bank transfer (automatic),73.55,145.4,2983-ZANRP,0.6051716925696383
+Female,False,False,False,3,False,No phone service,Fiber optic,No,No,No,No,Yes,No,Month-to-month,True,Credit card (automatic),34.8,113.95,3050-GBUSH,0.5321730319696689
+Female,False,True,False,1,True,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,True,Bank transfer (automatic),79.35,79.35,9507-EXLTT,0.7745202659604803
+Male,False,True,True,17,True,Yes,DSL,No,No,No,No,Yes,Yes,Month-to-month,True,Electronic check,92.55,1515.1,6100-QQHEB,0.93059854391379
+Male,True,False,False,12,True,No,DSL,No,Yes,Yes,Yes,No,No,Month-to-month,True,Mailed check,83.8,1029.75,8802-UNOJF,0.8029377289377289
+Female,False,False,False,1,True,No,DSL,No,No,No,No,No,No,Month-to-month,False,Mailed check,43.95,43.95,3085-QUOZK,0.9618117992632007
+Male,False,False,True,1,True,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,True,Electronic check,93.3,93.3,6521-YYTYI,0.758666461253062
+Male,True,False,False,21,True,No,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,True,Bank transfer (automatic),96.8,2030.3,9961-JBNMK,0.8796758893280634
+Male,False,False,False,1,True,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,True,Electronic check,79.95,79.95,9300-RENDD,0.7913878787840122
+Male,True,True,False,58,False,No phone service,DSL,No,Yes,Yes,No,No,Yes,Month-to-month,True,Electronic check,45.3,2651.2,3445-HXXGF,0.6753060179257363
+Female,False,False,False,3,True,No,DSL,No,No,Yes,Yes,No,No,Month-to-month,False,Credit card (automatic),80.1,217.55,6204-IEUXJ,0.9309311977974012
+Female,False,False,True,14,True,No,DSL,No,No,Yes,No,Yes,No,Month-to-month,True,Credit card (automatic),59.8,824.85,9481-SFCQY,0.6605833048077316
+Female,False,False,False,1,True,Yes,DSL,No,Yes,No,No,No,No,Month-to-month,True,Mailed check,80.2,80.2,0137-OCGAB,0.9771806615776082
+Female,True,False,False,4,True,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,True,Electronic check,74.9,321.75,0722-TROQR,0.5775145074177325
+Female,True,True,False,65,True,Yes,DSL,Yes,No,Yes,No,Yes,Yes,Month-to-month,False,Bank transfer (automatic),105.25,6786.4,3419-SNJJD,0.8905590062111801
+Female,False,True,False,53,True,No,DSL,Yes,Yes,Yes,No,Yes,Yes,One year,True,Bank transfer (automatic),106.1,5769.75,9651-GTSAQ,0.8674281715270088
+Female,False,False,False,1,True,No,DSL,No,No,Yes,No,No,No,Month-to-month,False,Electronic check,75.3,75.3,9940-RHLFB,0.9565494224363519
+Female,False,False,False,2,False,No phone service,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,False,Electronic check,51.4,96.8,2969-QWUBZ,0.616651133076259
+Female,False,False,False,2,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,20.35,45.3,9818-XQCUV,0.589269445333917
+Male,False,False,False,1,True,No,DSL,No,No,No,No,No,Yes,Month-to-month,False,Electronic check,79.6,79.6,5393-RXQSZ,0.9890275266099863
+Male,False,False,False,1,True,No,DSL,No,Yes,No,No,No,No,Month-to-month,False,Electronic check,50.8,50.8,2207-NHRJK,0.924273335940932
+Female,True,False,False,1,False,No phone service,DSL,No,No,No,No,No,No,Month-to-month,True,Mailed check,25.8,25.8,0661-XEYAN,0.9891725723499917
+Female,False,False,False,1,True,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,True,Electronic check,55.45,55.45,9822-OAOVB,0.7108990967996931
+Male,False,False,False,11,False,No phone service,DSL,No,No,Yes,No,Yes,No,One year,True,Electronic check,41.6,470.6,4905-JEFDW,0.5935885176699788
+Male,False,True,True,8,True,No,DSL,No,No,No,No,No,No,Month-to-month,False,Bank transfer (automatic),44.65,369.15,4608-LCIMN,0.5598780634986267
+Female,False,False,False,12,True,Yes,DSL,Yes,No,Yes,Yes,No,No,Month-to-month,True,Mailed check,61.65,713.75,0719-SYFRB,0.6037942110737806
+Male,False,True,False,4,True,Yes,DSL,No,No,No,No,No,No,Month-to-month,True,Electronic check,74.65,301.4,7341-LXCAF,0.9578715636173815
+Female,False,False,False,3,True,No,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,True,Electronic check,95.1,307.4,9944-HKVVB,0.9628823211373978
+Male,False,False,False,1,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,20.2,20.2,4786-UKSNZ,0.70527686856679
+Female,False,True,True,1,True,No,DSL,No,No,No,No,No,No,Month-to-month,True,Electronic check,45.7,45.7,9828-AOQLM,0.9494102648757525
+Male,True,False,False,2,True,No,DSL,Yes,No,Yes,No,Yes,No,Month-to-month,False,Bank transfer (automatic),66.4,94.55,5485-WUYWF,0.743738689945202
+Male,True,True,False,37,True,Yes,DSL,No,No,No,No,Yes,No,Month-to-month,True,Electronic check,85.7,3171.15,7137-RYLPP,0.9445771962236325
+Female,False,False,False,6,True,No,DSL,No,No,No,Yes,No,No,Month-to-month,True,Bank transfer (automatic),49.65,267.35,1213-NGCUN,0.8316869169522891
+Female,False,False,False,7,True,No,DSL,No,No,No,No,Yes,No,Month-to-month,True,Mailed check,80.3,526.7,0947-IDHRQ,0.8989013521489356
+Female,False,False,False,4,True,Yes,DSL,No,No,No,No,No,No,Month-to-month,False,Electronic check,75.35,338.1,1602-IJQQE,0.9522997022739554
+Female,False,True,False,12,False,No phone service,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,True,Bank transfer (automatic),49.85,617.15,7176-WIONM,0.6559731977562673
+Male,False,False,False,3,True,No,DSL,No,No,Yes,Yes,Yes,No,Month-to-month,True,Mailed check,88.35,262.05,0772-GYEQQ,0.8820436040902954
+Female,True,False,False,10,False,No phone service,DSL,No,No,No,Yes,No,No,Month-to-month,True,Electronic check,29.65,291.4,5143-EGQFK,0.6424857182435272
+Female,False,False,False,1,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,True,Mailed check,19.9,19.9,4800-VHZKI,0.6851794183313679
+Male,False,False,False,1,True,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,True,Mailed check,50.75,50.75,7794-JASDG,0.5206868906918113
+Male,False,False,False,5,True,No,DSL,No,No,No,No,No,No,Month-to-month,True,Electronic check,69.75,324.6,2058-DCJBE,0.9354486945397117
+Female,False,False,False,2,True,No,Fiber optic,No,No,No,No,No,No,Month-to-month,False,Electronic check,44.45,82.7,1728-BQDMA,0.6442781661940267
+Female,True,False,False,27,True,Yes,DSL,No,No,Yes,No,No,No,Month-to-month,True,Electronic check,78.05,2135.5,4412-YLTKF,0.9485170180432622
+Female,True,False,False,10,False,No phone service,DSL,No,No,No,No,No,Yes,Month-to-month,True,Electronic check,34.7,329.8,2408-WITXK,0.7841159802060408
+Female,True,True,False,42,True,No,DSL,Yes,No,No,No,No,No,Month-to-month,True,Credit card (automatic),74.15,3229.4,3714-JTVOV,0.7820967157884495
+Female,False,False,False,1,False,No phone service,DSL,No,No,No,No,Yes,No,Month-to-month,True,Electronic check,34.7,34.7,0375-HVGXO,0.9694308490247863
+Female,False,True,False,1,True,No,Fiber optic,No,No,No,No,No,No,Month-to-month,True,Electronic check,45.0,45.0,8356-WUAOJ,0.5546244304725703
+Male,False,True,False,24,True,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Month-to-month,True,Electronic check,104.65,2542.45,8625-AZYZY,0.9577810738810737
+Female,False,False,False,1,True,No,DSL,No,No,No,No,Yes,No,Month-to-month,True,Electronic check,80.25,80.25,5494-HECPR,0.9618936058827058
+Female,False,True,False,71,True,Yes,DSL,No,No,No,No,Yes,Yes,Two year,True,Bank transfer (automatic),93.7,6585.35,2530-ENDWQ,0.7311440750213128
+Female,False,False,False,1,True,No,DSL,No,No,No,No,Yes,No,Month-to-month,True,Mailed check,53.55,53.55,4929-BSTRX,0.9210018460031519
+Male,False,True,True,6,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Credit card (automatic),19.85,138.85,4020-KIUDI,0.5287391537421597
+Female,False,False,False,3,True,No,DSL,No,Yes,No,No,Yes,No,Month-to-month,False,Electronic check,83.75,247.25,0923-PNFUB,0.954951436548009
+Female,False,False,False,1,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,True,Mailed check,20.35,20.35,4634-JLRJT,0.6165164967628047
+Female,False,False,False,6,True,No,DSL,Yes,No,No,No,No,No,Month-to-month,True,Electronic check,49.45,314.6,0311-QYWSS,0.7377629637745657
+Male,False,True,False,3,False,No phone service,Fiber optic,No,No,No,No,No,No,Month-to-month,False,Mailed check,25.0,78.25,6542-LWGXJ,0.6426456232495119
+Female,False,False,False,1,True,No,DSL,No,No,No,No,No,Yes,Month-to-month,True,Electronic check,81.1,81.1,4614-NUVZD,0.9941991094176581
+Female,False,False,False,20,False,No phone service,DSL,No,No,No,No,No,No,Month-to-month,False,Credit card (automatic),24.9,505.95,6344-SFJVH,0.5721494183608562
+Male,False,False,False,13,True,No,DSL,No,No,No,No,No,Yes,Month-to-month,True,Electronic check,80.85,1008.7,5228-EXCET,0.8903801906127278
+Female,False,False,False,18,False,No phone service,DSL,No,No,Yes,Yes,No,No,Month-to-month,True,Electronic check,35.2,607.3,6133-OZILE,0.5205769458121898
+Male,False,False,False,7,True,No,DSL,No,No,Yes,No,No,No,Month-to-month,False,Mailed check,74.65,544.55,0927-LCSMG,0.861811248619634
+Male,False,True,True,13,True,No,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,True,Mailed check,96.65,1162.85,8844-TONUD,0.907829723803948
+Male,True,True,False,16,True,No,DSL,No,Yes,No,No,No,No,Month-to-month,True,Credit card (automatic),74.3,1178.25,7503-QQRVF,0.8004518097408261
+Male,True,True,False,1,True,No,DSL,No,No,No,No,No,No,Month-to-month,True,Electronic check,70.3,70.3,1363-TXLSL,0.9927282505402379
+Male,False,True,False,5,True,Yes,DSL,No,Yes,No,Yes,No,No,Month-to-month,True,Electronic check,85.4,401.1,6432-TWQLB,0.863
+Male,False,False,False,28,True,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Month-to-month,True,Electronic check,105.7,2979.5,8868-WOZGU,0.9594244134683159
+Male,True,True,False,17,True,No,DSL,No,Yes,No,No,No,No,Month-to-month,True,Electronic check,76.45,1233.4,2528-HFYZX,0.9097873853001984
+Female,False,False,False,1,True,No,Fiber optic,No,No,No,No,No,No,Month-to-month,False,Mailed check,45.15,45.15,7252-NTGSS,0.5942367621281306
+Female,False,True,False,30,True,Yes,DSL,No,Yes,No,Yes,Yes,No,Month-to-month,True,Credit card (automatic),94.1,2804.45,3976-BWUCK,0.821868686868687
+Male,False,False,False,4,True,Yes,DSL,No,No,No,No,No,No,Month-to-month,False,Mailed check,50.4,206.6,9462-MJUAW,0.8575888998438138
+Female,False,True,False,9,False,No phone service,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,True,Electronic check,48.75,442.2,7240-ETPTR,0.7358880272440267
+Female,True,False,False,1,True,No,Fiber optic,No,No,No,No,No,No,Month-to-month,True,Electronic check,69.6,69.6,8375-DKEBR,0.8020990374010593
+Male,False,False,False,1,True,No,DSL,No,No,No,No,No,No,Month-to-month,False,Electronic check,69.95,69.95,7153-OANIO,0.9894911439989308
+Female,False,False,False,1,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,19.5,19.5,7551-JOHTI,0.6916516581553651
+Male,True,True,False,7,True,Yes,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,True,Electronic check,99.25,665.45,6861-XWTWQ,0.9685938330675172
+Female,False,True,True,1,True,No,DSL,No,No,No,No,No,No,Month-to-month,True,Bank transfer (automatic),44.35,44.35,6142-VSJQO,0.88613964288241
+Male,True,False,False,2,True,Yes,DSL,No,No,No,No,Yes,Yes,Month-to-month,True,Electronic check,94.0,181.7,2720-WGKHP,1.0
+Female,False,False,False,17,True,No,DSL,Yes,Yes,No,Yes,Yes,Yes,One year,False,Credit card (automatic),79.85,1387.35,7049-GKVZY,0.5168594205066991
+Female,False,True,True,3,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,False,Mailed check,19.1,52.0,1407-DIGZV,0.5328339007149376
+Male,False,False,False,1,False,No phone service,Fiber optic,No,No,No,No,No,No,Month-to-month,True,Electronic check,24.4,24.4,7365-BVCJH,0.6248212732763964
+Male,False,False,False,14,True,Yes,DSL,No,No,No,Yes,Yes,No,Month-to-month,True,Electronic check,89.95,1178.4,9436-ZBZCT,0.8814763454723439
+Male,True,True,False,20,True,No,DSL,No,Yes,No,No,No,No,Month-to-month,True,Electronic check,73.65,1463.5,0947-MUGVO,0.9030211515339646
+Female,False,True,False,2,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Bank transfer (automatic),20.1,43.15,7017-VFULY,0.5846072458137956
+Male,False,False,False,2,True,No,DSL,No,No,No,No,No,No,Month-to-month,True,Electronic check,45.15,98.5,2962-XPMCQ,0.9483900225803512
+Male,False,False,False,1,True,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,True,Mailed check,80.85,80.85,5275-SQEIZ,0.7583007426222939
+Male,False,True,True,4,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,False,Credit card (automatic),19.5,96.85,6368-TZZDT,0.5704258639910814
+Male,False,False,False,4,True,No,DSL,No,No,No,No,Yes,Yes,Month-to-month,True,Electronic check,88.45,370.65,7228-OMTPN,0.9663497352719078
+Female,False,False,False,2,True,No,DSL,No,No,Yes,No,No,Yes,Month-to-month,False,Electronic check,60.85,111.4,3995-WFCSM,0.8709868650115888
+Female,True,True,False,56,True,Yes,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,True,Bank transfer (automatic),100.65,5688.05,3791-LGQCY,0.9529590062111802
+Female,False,False,False,1,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,True,Mailed check,19.6,19.6,4588-YBNIB,0.6999585915391127
+Female,False,True,False,22,True,No,DSL,No,No,No,No,No,No,Month-to-month,True,Electronic check,69.25,1554.0,4704-ERYFC,0.7054369793407181
+Female,False,False,False,43,True,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Two year,True,Electronic check,104.6,4759.85,6680-NENYN,0.7861967418546366
+Female,False,False,False,5,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,False,Electronic check,19.55,99.6,7311-MQJCH,0.5723062292530942
+Male,False,False,False,2,False,No phone service,DSL,No,No,No,No,No,No,Month-to-month,False,Mailed check,24.3,38.45,1777-JYQPJ,0.9186586572491864
+Male,True,True,False,1,True,No,DSL,No,No,No,No,No,No,Month-to-month,False,Mailed check,70.85,70.85,0812-WUPTB,0.9864428692548566
+Male,False,True,False,5,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,19.35,126.05,4903-UYAVB,0.561045667491828
+Female,False,True,True,11,True,Yes,DSL,No,No,No,Yes,No,Yes,Month-to-month,True,Electronic check,66.35,740.8,1373-ORVIZ,0.5530191933955337
+Female,False,True,True,7,False,No phone service,DSL,No,No,No,No,No,No,Month-to-month,True,Electronic check,24.7,149.05,5215-LNLDJ,0.7070028563450572
+Female,True,True,False,1,True,Yes,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,True,Electronic check,100.8,100.8,7216-EWTRS,0.9988888888888888
+Female,True,False,False,1,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,True,Electronic check,19.45,19.45,9174-FKWZE,0.5798851404264128
+Male,True,True,False,57,False,No phone service,DSL,No,No,No,No,Yes,Yes,Month-to-month,True,Electronic check,44.85,2572.95,3132-TVFDZ,0.7067560397290532
+Female,False,False,False,1,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,20.9,20.9,0426-TIRNE,0.6798395234569881
+Female,False,False,False,18,True,Yes,DSL,No,No,No,No,Yes,No,Month-to-month,True,Electronic check,85.2,1553.9,7831-QGOXH,0.93431359085646
+Male,False,True,False,54,True,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,False,Bank transfer (automatic),109.75,6110.2,1725-IQNIY,0.723948760790866
+Male,False,False,False,5,True,No,DSL,No,No,No,Yes,Yes,Yes,Month-to-month,True,Electronic check,96.1,453.4,0306-JAELE,0.9508780498520945
+Female,False,True,False,1,True,No,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,True,Mailed check,53.55,53.55,9108-EJFJP,0.6226578566695882
+Male,False,False,False,4,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,False,Mailed check,19.95,68.2,5619-XZZKR,0.6887566861858339
+Male,True,False,False,1,True,Yes,DSL,No,No,No,No,No,No,Month-to-month,True,Electronic check,73.65,73.65,8473-VUVJN,0.9953149671346408
+Male,True,False,False,5,True,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,True,Electronic check,85.55,408.5,4395-PZMSN,0.7814515226850706
+Male,False,False,False,1,True,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,True,Mailed check,62.8,62.8,6260-ONULR,0.7056539521590649
+Female,False,False,False,6,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,20.2,123.65,5850-BDWCY,0.5339065593452635
+Male,False,True,True,1,True,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,False,Credit card (automatic),74.6,74.6,1866-OBPNR,0.74532181013431
+Male,False,False,False,8,False,No phone service,DSL,Yes,No,No,No,No,No,Month-to-month,True,Electronic check,30.45,226.45,4625-EWPTF,0.7206985870448626
+Male,False,True,False,1,True,No,DSL,No,No,No,No,No,No,Month-to-month,False,Electronic check,70.0,70.0,5583-SXDAG,0.9800015900095442
+Male,False,False,False,6,True,No,DSL,No,Yes,No,No,Yes,No,Month-to-month,False,Electronic check,59.45,357.6,6218-KNUBD,0.7679231403487023
+Female,False,False,False,5,True,Yes,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,True,Electronic check,100.5,514.0,9681-OXGVC,0.9922222222222221
+Female,False,True,True,68,True,Yes,DSL,No,No,No,No,Yes,No,One year,True,Electronic check,83.0,5685.8,1625-JAIIY,0.6944358974358975
+Female,False,True,False,22,True,Yes,DSL,Yes,No,No,Yes,Yes,Yes,Month-to-month,True,Electronic check,79.2,1742.75,2189-UXTKY,0.7739659412292096
+Male,False,True,False,61,True,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Month-to-month,True,Electronic check,105.55,6281.45,4446-BZKHU,0.9802329670329669
+Female,False,False,False,12,True,Yes,DSL,No,Yes,No,No,Yes,No,Month-to-month,True,Bank transfer (automatic),89.75,1052.4,0135-NMXAP,0.8983743628745038
+Male,False,False,True,10,True,Yes,DSL,No,No,No,No,Yes,Yes,Month-to-month,False,Electronic check,95.2,930.4,2754-VDLTR,0.9424604756696711
+Female,False,False,True,26,False,No phone service,DSL,No,No,Yes,No,No,No,Month-to-month,True,Mailed check,29.8,786.5,4310-KEDTB,0.5169016074777353
+Male,False,True,False,4,True,No,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,True,Mailed check,80.6,319.15,3671-SHRSP,0.5742773636555392
+Male,False,False,False,1,True,No,Fiber optic,No,No,No,No,No,No,Month-to-month,True,Electronic check,69.9,69.9,5875-YPQFJ,0.8211636913884172
+Male,False,True,True,23,True,No,DSL,Yes,No,No,Yes,Yes,Yes,Month-to-month,True,Electronic check,99.85,2331.3,0320-JDNQG,0.8126158281491723
+Female,True,False,False,1,True,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,True,Electronic check,72.1,72.1,0021-IKXGC,0.7827503515189642
+Male,False,False,False,1,True,No,DSL,No,No,No,No,No,No,Month-to-month,True,Mailed check,71.55,71.55,6140-QNRQQ,0.9824268040286216
+Female,True,False,False,2,True,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,False,Mailed check,81.5,162.55,9050-IKDZA,0.7855166335199457
+Female,False,False,False,1,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,True,Mailed check,20.25,20.25,2876-VBBBL,0.6206344894116941
+Male,False,True,True,3,True,No,DSL,No,Yes,Yes,No,No,No,Month-to-month,True,Mailed check,56.15,168.15,8824-RWFXJ,0.9538539127625354
+Male,False,False,False,2,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,20.35,33.2,4195-SMMNX,0.7057293011711603
+Male,False,False,False,23,True,Yes,DSL,No,No,No,Yes,Yes,No,Month-to-month,True,Electronic check,90.6,1943.2,0376-YMCJC,0.8884409756062217
+Female,False,False,False,8,False,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,True,Mailed check,29.25,226.95,7421-ZLUPA,0.7521892644707193
+Male,False,False,False,7,True,Yes,DSL,No,No,No,No,Yes,Yes,Month-to-month,False,Mailed check,95.0,655.5,3874-EQOEP,0.8958518730421584
+Male,True,False,False,1,False,No phone service,DSL,No,No,Yes,No,No,Yes,Month-to-month,True,Electronic check,39.65,39.65,8779-QRDMV,0.975992122280005
+Female,True,False,False,56,True,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,True,Electronic check,111.95,6418.9,6664-FPDAC,0.9612777777777777
+Male,False,False,False,1,True,No,DSL,No,Yes,No,No,No,No,Month-to-month,True,Electronic check,50.75,50.75,4317-VTEOA,0.8556529479086167
+Female,False,False,False,2,True,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,True,Electronic check,91.4,193.6,9546-CQJSU,0.8231668243062816
+Female,True,True,False,5,True,Yes,DSL,No,No,No,No,No,No,Month-to-month,True,Electronic check,74.35,334.8,5956-VKDTT,0.9280957295338261
+Female,False,False,False,1,True,No,DSL,No,No,No,No,No,No,Month-to-month,False,Mailed check,69.55,69.55,4110-PFEUZ,0.97826039663945
+Female,False,True,True,14,True,Yes,DSL,No,No,Yes,No,No,Yes,Month-to-month,True,Electronic check,87.25,1258.6,2845-HSJCY,0.9489226084186067
+Male,False,False,False,2,True,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,False,Electronic check,95.65,167.3,8413-VONUO,0.7841251741447399
+Female,False,False,False,1,True,Yes,DSL,No,No,No,No,No,Yes,Month-to-month,False,Mailed check,85.8,85.8,3049-NDXFL,0.9953412714893404
+Female,True,False,False,8,True,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Month-to-month,True,Electronic check,105.5,829.55,3389-YGYAI,0.958986790986791
+Female,False,False,False,43,False,No phone service,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,True,Bank transfer (automatic),49.05,2076.2,2027-OAQQC,0.5641480905515011
+Male,False,False,False,3,False,No phone service,Fiber optic,No,No,No,Yes,No,No,Month-to-month,False,Electronic check,30.4,82.15,8167-GJLRN,0.6646232456019433
+Male,False,False,False,1,True,No,DSL,Yes,No,No,Yes,No,No,Month-to-month,True,Electronic check,53.95,53.95,9732-KPKBW,0.6672288699637409
+Male,True,False,False,1,False,No phone service,DSL,No,Yes,Yes,No,No,Yes,Month-to-month,True,Electronic check,43.3,43.3,6702-OHFWR,0.9792241092241093
+Female,False,True,False,7,True,No,DSL,No,No,Yes,No,Yes,No,Month-to-month,True,Electronic check,86.25,587.1,4285-GYRQC,0.9458002770650488
+Female,False,True,False,2,True,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,True,Electronic check,84.05,134.05,3489-HHPFY,0.7504406661653178
+Female,False,False,False,5,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,True,Credit card (automatic),19.65,92.05,3694-GLTJM,0.5469913027115166
+Male,False,False,False,9,True,Yes,DSL,No,No,No,No,Yes,Yes,Month-to-month,True,Electronic check,95.5,829.1,0564-JJHGS,0.9535291149537186
+Male,False,False,False,1,True,No,DSL,No,No,No,No,Yes,No,Month-to-month,True,Electronic check,79.5,79.5,2514-GINMM,0.9792922884829178
+Female,True,False,False,4,True,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,True,Electronic check,94.3,424.45,1374-DMZUI,0.6878678437890905
+Male,False,False,False,2,True,No,DSL,No,Yes,No,No,No,No,Month-to-month,False,Mailed check,49.25,97.0,5948-UJZLF,0.9086997990089087
+Female,False,False,False,7,True,No,DSL,No,No,No,Yes,Yes,No,Month-to-month,True,Mailed check,59.5,415.95,1205-WNWPJ,0.5397078595302807
+Male,False,True,True,15,True,Yes,DSL,No,No,No,No,No,No,Month-to-month,True,Bank transfer (automatic),74.9,1107.25,6906-ANDWJ,0.8845971575110044
+Male,False,False,False,1,True,No,DSL,No,No,No,No,Yes,Yes,Month-to-month,True,Electronic check,90.55,90.55,7274-RTAPZ,0.9746736953971715
+Female,False,False,False,1,True,No,Fiber optic,No,No,No,No,No,No,Month-to-month,True,Mailed check,45.4,45.4,2275-RBYQS,0.5612587026348322
+Female,False,False,False,36,True,No,DSL,No,No,Yes,Yes,No,Yes,Month-to-month,True,Electronic check,87.55,3078.1,6711-VTNRE,0.8323637654629895
+Male,False,False,False,1,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,20.3,20.3,9122-UMROB,0.6493260526555684
+Male,False,True,True,1,True,No,Fiber optic,No,No,No,No,No,No,Month-to-month,True,Credit card (automatic),69.95,69.95,2920-RNCEZ,0.846357187607666
+Female,False,False,False,8,True,Yes,DSL,No,No,No,No,Yes,No,Month-to-month,True,Electronic check,87.05,762.1,6979-ZNSFF,0.9518789803505137
+Female,False,False,False,40,True,Yes,DSL,No,No,Yes,Yes,Yes,Yes,One year,True,Mailed check,80.75,3208.65,7013-PSXHK,0.538790159084198
+Male,False,False,True,8,False,No phone service,DSL,No,No,No,No,No,No,Month-to-month,False,Mailed check,25.5,215.2,0420-BWTPW,0.6303104269976876
+Female,False,False,False,36,True,Yes,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,True,Electronic check,99.15,3615.6,6907-NZZIJ,0.9530473897172009
+Male,False,False,True,3,True,No,DSL,No,No,No,No,No,No,Month-to-month,False,Electronic check,69.65,220.1,4919-MOAVT,0.9598373261573901
+Female,True,False,False,11,True,Yes,DSL,No,No,No,No,No,Yes,Month-to-month,True,Credit card (automatic),84.8,906.85,4706-AXVKM,0.9289134483984235
+Male,True,False,False,2,True,Yes,DSL,No,No,No,No,Yes,Yes,Month-to-month,True,Electronic check,93.85,196.75,4424-TKOPW,1.0
+Female,False,False,False,2,True,No,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,True,Electronic check,91.15,168.5,5091-HFAZW,0.6815668753509673
+Female,False,True,False,13,False,No phone service,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,True,Bank transfer (automatic),48.75,633.4,7470-MCQTK,0.7048779596610294
+Female,False,True,False,4,False,No phone service,Fiber optic,Yes,No,No,No,No,No,Month-to-month,True,Electronic check,29.05,129.6,7853-OETYL,0.536797762168186
+Male,False,False,False,4,True,No,DSL,No,No,Yes,No,No,No,Month-to-month,True,Electronic check,73.9,280.85,0004-TLHLJ,0.9051432089925403
+Male,True,False,False,2,False,No phone service,DSL,No,No,No,No,No,No,Month-to-month,True,Mailed check,24.45,47.5,8263-JQAIK,0.9644973608512508
+Female,False,True,False,39,True,No,DSL,Yes,No,Yes,Yes,Yes,Yes,One year,True,Credit card (automatic),104.7,4134.85,2359-QWQUL,0.8820594220594221
+Male,False,True,False,59,True,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,One year,True,Electronic check,110.15,6448.05,2408-TZMJL,0.9434374307862682
+Male,False,True,False,29,True,Yes,DSL,Yes,Yes,No,No,No,No,Month-to-month,True,Electronic check,84.45,2467.1,2683-BPJSO,0.8208564030905804
+Male,True,True,False,43,True,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Month-to-month,True,Electronic check,103.0,4414.3,7142-HVGBG,0.9798887685084867
+Male,True,False,False,1,True,No,Fiber optic,No,No,No,No,No,No,Month-to-month,True,Mailed check,45.85,45.85,6127-IYJOZ,0.5069094209608254
+Male,False,False,False,7,True,Yes,DSL,No,No,No,No,No,Yes,Month-to-month,True,Electronic check,86.8,620.35,9451-LPGOO,0.9394160882335306
+Female,False,False,False,2,True,No,DSL,No,Yes,No,No,No,No,Month-to-month,True,Mailed check,49.6,114.7,1226-UDFZR,0.8981539486605915
+Female,False,False,False,5,False,No phone service,DSL,No,No,Yes,No,No,Yes,Month-to-month,False,Electronic check,39.5,210.75,5669-SRAIP,0.9203440408429118
+Male,False,False,False,26,True,Yes,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,True,Electronic check,98.35,2515.3,4735-ASGMA,0.9575063461533173
+Male,True,True,False,32,True,Yes,DSL,No,No,No,No,No,Yes,Month-to-month,True,Electronic check,85.0,2642.05,9606-PBKBQ,0.9404727935203924
+Male,False,True,True,1,True,No,DSL,No,No,No,No,No,No,Month-to-month,True,Mailed check,45.85,45.85,3165-HDOEW,0.9404417329115833
+Male,False,False,False,6,True,No,DSL,No,No,Yes,No,Yes,No,Month-to-month,False,Mailed check,60.9,414.1,0856-NAOES,0.7311401233614601
+Male,False,False,False,14,True,Yes,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,True,Electronic check,100.55,1415.55,6615-NGGZJ,0.9492363011981065
+Female,False,False,False,10,True,Yes,DSL,No,No,No,Yes,Yes,Yes,Month-to-month,True,Electronic check,98.5,1058.25,1450-GALXR,0.945755936991684
+Male,True,False,False,22,True,Yes,DSL,No,No,No,Yes,Yes,No,Month-to-month,True,Bank transfer (automatic),90.5,1910.6,6284-AHOOQ,0.877204688266486
+Male,False,False,False,2,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,False,Mailed check,19.95,47.7,5173-ZXXXL,0.7471085978431511
+Male,False,False,False,2,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,20.05,33.7,0188-GWFLE,0.7224238874361558
+Female,False,True,False,2,True,No,DSL,No,Yes,Yes,No,No,No,Month-to-month,False,Bank transfer (automatic),79.7,165.0,8642-GVWRF,0.9150870743490045
+Male,True,True,False,2,True,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,True,Credit card (automatic),95.5,181.65,4929-XIHVW,0.7434446760972729
+Male,True,True,False,21,True,No,DSL,Yes,Yes,No,No,No,Yes,Month-to-month,True,Bank transfer (automatic),64.95,1339.8,3179-GBRWV,0.5537216426294806
+Male,True,False,False,12,True,Yes,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,True,Electronic check,99.45,1200.15,7450-NWRTR,0.9683012946347934
+Female,False,False,True,39,False,No phone service,DSL,No,No,Yes,No,No,No,Month-to-month,False,Credit card (automatic),30.1,1131.3,5202-IVJNU,0.5875233977944188
+Male,False,False,False,3,True,No,Fiber optic,No,No,Yes,Yes,Yes,No,Month-to-month,True,Mailed check,89.85,244.45,7952-OBOYL,0.6443602141814541
+Male,False,True,True,52,True,Yes,DSL,No,No,Yes,Yes,No,Yes,Two year,True,Bank transfer (automatic),96.25,4990.25,1527-SXDPN,0.6201396611818109
+Female,False,False,False,39,False,No phone service,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,True,Credit card (automatic),50.65,1905.4,4450-YOOHP,0.5916050055597001
+Male,False,False,False,3,True,No,DSL,No,No,No,No,Yes,No,Month-to-month,True,Electronic check,78.5,242.05,9837-BMCLM,0.9713893989893205
+Male,False,True,False,4,True,No,DSL,No,No,No,Yes,No,No,Month-to-month,False,Mailed check,50.05,179.35,0742-MOABM,0.778722437295365
+Male,True,False,False,8,True,Yes,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,True,Electronic check,100.6,819.4,4822-RVYBB,0.9804495708754608
+Female,False,False,False,64,True,Yes,DSL,No,No,Yes,No,Yes,Yes,One year,True,Credit card (automatic),100.05,6254.2,9518-RWHZL,0.9483333333333333
+Male,False,False,False,1,True,Yes,DSL,No,No,Yes,No,No,No,Month-to-month,False,Electronic check,54.35,54.35,4349-GFQHK,0.9645069753645984
+Male,False,False,False,3,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,True,Credit card (automatic),20.75,67.1,0463-WZZKO,0.6769695312375288
+Male,True,False,False,8,True,No,DSL,No,No,No,No,No,No,Month-to-month,True,Electronic check,69.7,560.85,3999-QGRJH,0.8425956783138083
+Female,False,False,False,1,True,No,Fiber optic,No,No,No,No,No,No,Month-to-month,False,Mailed check,45.35,45.35,7754-IXRMC,0.5942367621281306
+Male,True,False,False,1,True,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,True,Electronic check,75.75,75.75,6894-LFHLY,0.849205665465401
+Female,False,False,False,3,True,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,24.6,86.35,9277-JOOMO,0.564025039324391
+Male,False,False,True,3,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,True,Mailed check,20.05,75.45,3407-QGWLG,0.6796499709221305
+Female,False,True,True,13,True,No,DSL,No,No,No,No,No,Yes,Month-to-month,False,Electronic check,55.95,734.35,4640-UHDOS,0.6426290835586163
+Female,True,False,False,26,True,Yes,DSL,No,Yes,No,No,Yes,No,Month-to-month,True,Electronic check,89.15,2277.65,6005-OBZPH,0.9716637178335291
+Male,False,True,True,4,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,False,Mailed check,19.9,76.65,0754-EEBDC,0.6510503219612894
+Female,True,False,False,18,True,Yes,DSL,No,Yes,No,Yes,No,No,Month-to-month,True,Electronic check,85.45,1505.85,5914-DVBWJ,0.8930292137056844
+Male,False,False,False,3,True,No,DSL,No,No,No,No,Yes,No,Month-to-month,False,Credit card (automatic),53.4,188.7,4918-QLLIW,0.8826593678459388
+Female,False,True,False,44,True,Yes,DSL,No,No,No,No,Yes,Yes,Month-to-month,True,Electronic check,96.1,4364.1,5980-NOPLP,0.9267453127367989
+Male,False,False,False,13,True,No,DSL,No,No,Yes,No,Yes,No,Month-to-month,True,Electronic check,83.2,1060.6,0689-NKYLF,0.9331742934095075
+Female,False,False,False,4,False,No phone service,DSL,No,No,No,No,No,No,Month-to-month,True,Electronic check,24.45,86.6,5261-QSHQM,0.9477104063249848
+Female,True,True,False,1,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,True,Mailed check,20.85,20.85,6982-UQZLY,0.5818865806601949
+Male,False,False,False,1,True,No,DSL,No,No,Yes,No,No,No,Month-to-month,True,Mailed check,49.65,49.65,1660-HSOOQ,0.9538538933853883
+Female,False,False,False,2,True,No,DSL,No,Yes,No,Yes,No,No,Month-to-month,True,Credit card (automatic),55.05,102.75,5208-HFSBT,0.7758101445828092
+Female,False,False,False,3,False,No phone service,DSL,No,No,No,No,No,No,Month-to-month,False,Electronic check,25.25,58.9,8993-PHFWD,0.8943632259972094
+Female,False,False,False,3,True,No,DSL,No,No,No,No,Yes,No,Month-to-month,True,Electronic check,79.4,244.65,1678-FYZOW,0.9338741744271897
+Female,True,False,False,37,True,Yes,DSL,Yes,Yes,No,No,Yes,Yes,Month-to-month,True,Bank transfer (automatic),106.75,4056.75,9710-ZUSHQ,0.8562023809523811
+Female,False,True,True,6,True,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,True,Mailed check,94.05,518.75,6137-NICCO,0.6878862936447078
+Male,False,False,False,1,True,No,DSL,No,No,No,No,No,No,Month-to-month,True,Electronic check,42.9,42.9,6959-UWKHF,0.9207705018789312
+Female,False,True,False,37,True,Yes,DSL,Yes,No,Yes,Yes,No,Yes,One year,True,Electronic check,99.2,3754.6,2153-MREFK,0.8371825396825398
+Female,True,False,False,1,True,No,Fiber optic,No,No,No,No,No,No,Month-to-month,True,Electronic check,70.2,70.2,9605-WGJVW,0.7619821661314782
+Male,False,False,False,1,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,True,Mailed check,20.1,20.1,1000-AJSLD,0.7088799581379998
+Female,False,False,False,1,True,No,DSL,No,No,No,No,No,No,Month-to-month,True,Mailed check,45.4,45.4,5692-FPTAH,0.9611031653844584
+Male,False,False,False,6,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,18.95,110.15,7968-QUXNS,0.5572434031631754
+Female,True,False,False,4,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,20.05,91.45,1855-CFULU,0.563467235024398
+Female,False,False,False,9,True,Yes,DSL,No,No,No,No,Yes,Yes,Month-to-month,True,Electronic check,94.75,889.9,7943-RQCHR,0.9583342075794249
+Female,False,True,True,1,True,No,DSL,No,No,No,No,No,No,Month-to-month,True,Electronic check,69.8,69.8,5134-IKDAY,0.9921213753966636
+Female,True,False,False,21,True,Yes,DSL,No,No,No,No,Yes,Yes,Month-to-month,True,Electronic check,94.25,1973.75,4094-NSEDU,0.9059829521987123
+Female,False,False,False,1,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,20.5,20.5,2002-MZHWP,0.6083965553614591
+Male,False,True,False,1,True,No,DSL,Yes,No,No,No,Yes,Yes,Month-to-month,True,Electronic check,95.0,95.0,0684-AOSIH,0.8615807399230878
+Male,False,False,False,8,True,Yes,DSL,No,No,No,No,No,Yes,Month-to-month,True,Electronic check,86.55,649.65,5229-PRWKT,0.9444160882335306
+Male,False,False,True,22,True,No,DSL,No,Yes,Yes,No,Yes,No,Month-to-month,True,Electronic check,89.4,2001.5,1902-XBTFB,0.8920768911832663
+Male,False,False,False,1,True,No,Fiber optic,Yes,No,No,No,No,Yes,Month-to-month,True,Mailed check,84.6,84.6,8937-RDTHP,0.6656822466699045
+Male,False,True,True,17,True,No,DSL,No,No,No,No,No,No,Month-to-month,True,Electronic check,69.0,1149.65,9824-BEMCV,0.6873906439252582
+Female,True,False,False,37,True,Yes,DSL,No,No,No,No,Yes,Yes,Month-to-month,True,Electronic check,96.55,3580.3,6899-PPEEA,0.9526006151004122
+Male,False,False,True,1,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,True,Mailed check,20.25,20.25,5868-YTYKS,0.6964951041368838
+Male,False,False,False,1,True,No,DSL,No,No,No,No,No,Yes,Month-to-month,True,Electronic check,80.8,80.8,6457-USBER,0.9824221647777267
+Male,False,False,False,57,False,No phone service,DSL,No,Yes,No,No,Yes,No,Month-to-month,True,Electronic check,39.3,2111.45,4628-CTTLA,0.551774850634356
+Female,False,False,False,9,True,No,DSL,Yes,Yes,No,No,Yes,Yes,Month-to-month,True,Electronic check,74.65,703.55,1518-VOWAV,0.7354171494367121
+Male,False,True,True,4,True,No,DSL,No,No,No,Yes,No,Yes,Month-to-month,False,Credit card (automatic),61.45,229.55,5949-EBSQK,0.7726611497539041
+Male,False,True,False,5,False,No phone service,DSL,No,No,No,No,No,No,Month-to-month,True,Electronic check,24.95,100.4,7802-EFKNY,0.8740509234973682
+Male,False,False,False,6,True,No,DSL,No,No,No,No,Yes,No,Month-to-month,True,Credit card (automatic),80.5,463.05,9840-DVNDC,0.9571360757147039
+Male,False,True,True,1,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,False,Credit card (automatic),19.85,19.85,1064-FBXNK,0.8368394133550053
+Female,True,False,False,4,True,Yes,DSL,No,No,No,No,No,Yes,Month-to-month,True,Electronic check,84.6,360.1,4750-ZRXIU,0.9749578382566093
+Male,True,True,False,40,True,Yes,DSL,Yes,No,No,No,Yes,Yes,Month-to-month,False,Electronic check,101.85,4086.3,2474-BRUCM,0.9693333333333334
+Male,True,True,False,24,False,No phone service,DSL,Yes,No,No,No,No,Yes,Month-to-month,False,Bank transfer (automatic),39.1,971.3,2778-OCLGR,0.6929209194916982
+Female,False,False,False,1,True,No,Fiber optic,No,No,No,No,No,No,Month-to-month,True,Electronic check,70.1,70.1,4702-IOQDC,0.7870519273940718
+Male,False,False,False,10,True,Yes,DSL,No,Yes,No,No,No,No,Month-to-month,True,Bank transfer (automatic),80.7,788.8,0940-OUQEC,0.9178291408292817
+Female,False,False,False,6,True,No,DSL,No,No,No,No,Yes,Yes,Month-to-month,True,Electronic check,91.1,455.3,2672-HUYVI,0.9701785502366657
+Male,True,True,False,32,True,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Month-to-month,False,Bank transfer (automatic),106.35,3520.75,3757-NJYBX,0.8836857142857143
+Male,False,False,False,4,True,Yes,DSL,No,Yes,No,No,No,No,Month-to-month,False,Electronic check,78.45,330.05,3249-ZPQRG,0.9713004718685367
+Male,True,False,False,49,True,Yes,DSL,No,No,No,No,Yes,Yes,Month-to-month,True,Electronic check,96.2,4718.25,5655-JSMZM,0.961159017453135
+Male,False,False,False,1,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,19.95,19.95,6286-SUUWT,0.711338008425797
+Male,False,True,False,1,True,No,DSL,No,No,No,Yes,Yes,No,Month-to-month,True,Electronic check,84.8,84.8,6877-TJMBR,0.9238641702500398
+Male,False,False,True,1,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,True,Mailed check,19.2,19.2,3308-MHOOC,0.584485253190625
+Female,True,False,False,37,True,Yes,DSL,No,No,No,No,No,No,Month-to-month,True,Electronic check,76.25,2841.55,8696-JKZNU,0.9238120495621309
+Male,False,False,False,1,True,No,DSL,No,No,No,No,No,No,Month-to-month,True,Electronic check,69.85,69.85,4603-JANFB,0.9828857821666713
+Female,False,True,False,6,True,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Month-to-month,True,Electronic check,105.3,545.2,4587-VVTOX,0.9801190476190476
+Female,False,True,False,4,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,False,Bank transfer (automatic),20.5,79.05,8189-DUKMV,0.7002104628775592
+Male,False,True,True,2,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,20.3,40.25,1755-RMCXH,0.673938550946822
+Male,False,False,False,30,True,No,DSL,No,No,No,No,Yes,Yes,Month-to-month,True,Electronic check,90.25,2755.35,6032-KRXXO,0.9245717055549258
+Male,False,False,False,2,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,19.35,46.35,0366-NQSHS,0.6390449256193523
+Female,False,False,False,16,True,Yes,DSL,No,No,Yes,No,No,Yes,Month-to-month,True,Credit card (automatic),65.2,1043.35,9578-VRMNM,0.5041407759835724
+Male,False,False,False,1,True,No,DSL,No,No,Yes,Yes,No,No,Month-to-month,False,Mailed check,55.05,55.05,3577-AMVUX,0.8934281399241164
+Male,False,False,False,10,True,No,DSL,No,No,No,No,Yes,Yes,Month-to-month,True,Electronic check,89.5,863.1,4112-LUEIZ,0.9257037111937799
+Female,False,True,True,28,True,No,DSL,No,No,No,No,No,Yes,Month-to-month,True,Electronic check,81.05,2227.1,0256-LTHVJ,0.8514097294161949
+Female,False,True,True,48,True,Yes,DSL,Yes,Yes,No,No,Yes,Yes,One year,True,Credit card (automatic),103.25,5037.55,4800-CZMPC,0.853381153729991
+Female,False,False,False,4,True,Yes,DSL,No,Yes,No,Yes,No,Yes,Month-to-month,True,Electronic check,93.5,362.2,1731-TVIUK,0.9268196194712133
+Male,False,True,True,5,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,False,Mailed check,20.1,85.1,8752-IMQOS,0.7012355789113061
+Female,True,False,False,8,True,No,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,True,Credit card (automatic),94.45,742.95,3217-FZDMN,0.9494064745323325
+Female,False,False,False,3,True,No,Fiber optic,No,No,No,No,No,No,Month-to-month,True,Electronic check,69.85,199.85,7245-NIIWQ,0.5226186057471971
+Female,True,True,False,54,True,Yes,DSL,No,Yes,No,No,Yes,Yes,One year,True,Credit card (automatic),101.5,5373.1,0406-BPDVR,0.9621111111111111
+Male,False,False,False,3,False,No phone service,DSL,Yes,Yes,No,No,No,No,Month-to-month,True,Mailed check,35.45,106.85,2108-XWMPY,0.8819595959595958
+Male,False,False,False,4,True,No,Fiber optic,No,No,No,No,No,No,Month-to-month,False,Mailed check,44.55,220.75,7878-JGDKK,0.5334826232122126
+Male,False,True,False,14,True,Yes,DSL,No,No,No,No,No,Yes,Month-to-month,True,Electronic check,85.15,1139.2,9185-TQCVP,0.9385009451145901
+Male,False,False,False,1,True,No,DSL,No,No,No,No,No,Yes,Month-to-month,True,Electronic check,55.0,55.0,3583-EKAPL,0.9402414631915375
+Female,False,False,False,1,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,20.5,20.5,9753-OYLBX,0.6083965553614591
+Female,False,False,False,22,False,No phone service,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,True,Electronic check,50.35,1098.85,0212-ISBBF,0.6394495919822141
+Male,False,False,False,33,True,Yes,DSL,No,Yes,No,No,No,No,Month-to-month,True,Bank transfer (automatic),54.65,1665.2,9342-VNIMQ,0.5591004636516181
+Male,False,False,False,3,True,No,DSL,No,No,No,No,Yes,No,Month-to-month,False,Electronic check,79.25,267.6,6110-OHIHY,0.973866344477874
+Female,False,True,False,28,True,Yes,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,True,Electronic check,104.8,3046.05,7892-POOKP,0.9665036395336167
+Female,True,False,False,1,True,No,DSL,No,No,No,No,No,No,Month-to-month,True,Electronic check,70.55,70.55,8051-HJRLT,0.9826481412037162
+Female,False,False,False,1,True,Yes,DSL,No,No,No,No,Yes,Yes,Month-to-month,True,Electronic check,93.85,93.85,8149-RSOUN,0.9925916092900264
+Male,False,False,False,42,True,Yes,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,True,Electronic check,101.75,4273.45,1723-HKXJQ,0.9601657875795014
+Male,False,False,False,1,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,20.05,20.05,8749-CLJXC,0.6978841514799552
+Male,False,False,False,11,True,No,DSL,No,Yes,No,No,No,No,Month-to-month,False,Electronic check,74.95,815.5,4503-BDXBD,0.8254700412097449
+Male,True,True,False,17,True,No,DSL,No,No,No,No,No,Yes,Month-to-month,False,Bank transfer (automatic),81.5,1329.2,7395-IGJOS,0.86811804689727
+Female,False,False,False,4,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,True,Credit card (automatic),20.15,68.45,5712-VBOXD,0.6147641001491209
+Male,False,True,False,51,True,Yes,DSL,No,No,No,No,Yes,Yes,Month-to-month,True,Electronic check,94.65,4812.75,5364-XYIRR,0.9166167665520937
+Female,True,False,False,1,True,No,DSL,No,Yes,No,No,No,Yes,Month-to-month,True,Electronic check,86.0,86.0,4844-JJWUY,0.997794245858762
+Female,False,False,False,38,True,No,DSL,Yes,Yes,Yes,No,No,No,Month-to-month,True,Credit card (automatic),83.9,3233.6,1193-RTSLK,0.7142918538081221
+Female,False,False,False,1,True,No,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,True,Electronic check,82.3,82.3,0742-NXBGR,0.7043208883196583
+Female,False,False,True,2,True,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,True,Bank transfer (automatic),94.2,193.8,3006-XIMLN,0.7618824890950943
+Male,False,False,False,1,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,20.25,20.25,8203-XJZRC,0.665347075607488
+Female,False,True,True,3,True,No,DSL,No,No,No,No,No,Yes,Month-to-month,True,Electronic check,80.3,250.05,9897-KXHCM,0.980664179383483
+Female,False,False,False,1,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,19.85,19.85,1135-LMECX,0.6834777975904616
+Female,False,False,False,1,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,20.9,20.9,7243-LCGGZ,0.6798395234569881
+Male,False,False,False,1,True,No,DSL,No,No,No,No,No,No,Month-to-month,True,Electronic check,69.6,69.6,6502-MJQAE,0.9821840277807063
+Female,False,True,False,2,False,No phone service,DSL,No,No,No,No,Yes,Yes,Month-to-month,False,Electronic check,44.6,97.1,7615-ESMYF,0.9505811345057771
+Male,True,True,False,32,True,Yes,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,True,Electronic check,104.9,3351.55,3001-CBHLQ,0.9471588835771658
+Male,False,False,False,19,False,No phone service,DSL,No,No,Yes,No,Yes,No,Month-to-month,True,Electronic check,39.65,733.35,5204-QZXPU,0.8000560134389955
+Female,True,True,False,32,True,Yes,DSL,No,No,No,No,Yes,No,Month-to-month,True,Credit card (automatic),85.95,2628.6,5307-DZCVC,0.9250627940582449
+Male,False,False,False,1,True,Yes,DSL,No,Yes,No,Yes,No,No,Month-to-month,False,Mailed check,60.1,60.1,1582-RAFML,0.8413294252227422
+Male,False,False,False,11,True,No,DSL,No,No,No,Yes,No,No,Month-to-month,True,Electronic check,73.85,926.25,2696-NARTR,0.6717776328916005
+Male,True,True,False,1,True,Yes,DSL,No,No,No,No,No,No,Month-to-month,True,Electronic check,74.4,74.4,4102-OQUPX,0.9962451996927802
+Female,False,False,False,13,True,Yes,DSL,No,Yes,Yes,No,No,No,Month-to-month,True,Electronic check,84.45,1058.6,4822-NGOCH,0.9564844353522453
+Male,False,True,False,14,False,No phone service,DSL,No,No,No,No,Yes,Yes,Month-to-month,False,Electronic check,46.35,667.7,0601-WZHJF,0.6138626952648096
+Female,False,False,True,48,True,No,DSL,No,Yes,Yes,Yes,Yes,No,Two year,True,Mailed check,95.5,4627.85,9412-ARGBX,0.5696439393939394
+Male,False,False,False,1,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,20.05,20.05,3030-ZKIWL,0.6978841514799552
+Female,False,False,False,2,True,Yes,DSL,No,No,No,No,Yes,Yes,Month-to-month,True,Electronic check,95.15,196.9,7851-WZEKY,0.9881376619216052
+Female,False,False,True,1,True,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,25.4,25.4,2080-SRCDE,0.5583205557146692
+Male,True,False,False,3,True,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,True,Electronic check,94.85,335.75,5150-ITWWB,0.6943184670903914
+Male,False,False,False,1,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,True,Bank transfer (automatic),19.65,19.65,7291-CDTMJ,0.7000515292854053
+Male,True,False,False,2,True,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,False,Mailed check,49.95,107.1,4223-WOZCM,0.6095674556269565
+Male,False,True,False,32,True,Yes,DSL,No,No,Yes,No,No,No,Month-to-month,True,Electronic check,78.9,2447.95,9465-RWMXL,0.9011112382175867
+Male,False,False,False,5,True,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,False,Electronic check,105.3,550.6,6734-GMPVK,0.5932955237362977
+Female,True,True,False,8,True,Yes,DSL,No,Yes,No,No,No,No,Month-to-month,True,Credit card (automatic),80.65,633.3,7495-OOKFY,0.9103105391875883
+Female,False,False,False,1,True,No,DSL,No,No,No,No,No,No,Month-to-month,True,Electronic check,70.3,70.3,6653-CBBOM,0.9911457776540602
+Female,True,True,True,1,True,No,DSL,No,No,No,No,No,No,Month-to-month,True,Electronic check,69.25,69.25,0679-IDSTG,0.9933981750365452
+Female,False,False,False,2,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,19.3,44.4,0396-HUJBP,0.5676995713206421
+Male,False,False,False,10,True,No,DSL,No,No,No,No,No,No,Month-to-month,False,Mailed check,46.0,492.1,5651-CPDND,0.5965318187798736
+Male,False,True,True,4,True,Yes,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,False,Electronic check,101.15,385.9,0880-TKATG,0.9830688220230474
+Female,False,True,False,39,False,No phone service,DSL,Yes,No,Yes,No,Yes,Yes,Month-to-month,False,Electronic check,55.9,2184.35,2911-UREFD,0.6346459127869631
+Female,False,True,False,24,True,No,DSL,No,Yes,Yes,No,Yes,Yes,Month-to-month,True,Credit card (automatic),99.3,2431.35,5480-TBGPH,0.9206919624805276
+Female,False,False,False,6,True,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,True,Electronic check,89.75,552.65,3462-BJQQA,0.7476818429334471
+Female,True,False,False,4,True,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,True,Electronic check,74.45,294.45,1197-BVMVG,0.5859834069392635
+Male,False,False,False,2,True,No,DSL,No,No,Yes,Yes,No,No,Month-to-month,True,Electronic check,79.85,152.45,5712-PTIWW,0.9358889154323937
+Male,False,False,True,1,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,20.05,20.05,2812-SFXMJ,0.6347067887733742
+Female,False,False,False,1,True,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,False,Electronic check,74.35,74.35,9840-EFJQB,0.7697015167178253
+Male,True,False,False,7,True,Yes,DSL,No,No,No,No,No,No,Month-to-month,False,Mailed check,73.75,545.15,3070-DVEYC,0.907903409090909
+Female,False,False,False,6,True,Yes,DSL,Yes,No,No,No,No,No,Month-to-month,True,Electronic check,79.05,434.5,6400-BWQKW,0.8390841638261434
+Male,False,False,False,1,True,Yes,DSL,No,No,No,No,No,No,Month-to-month,True,Electronic check,74.9,74.9,6358-LYNGM,0.9849822600360031
+Male,False,False,False,1,True,Yes,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,False,Electronic check,61.15,61.15,1928-BXYIV,0.5919147160811322
+Male,False,False,False,1,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,19.4,19.4,5766-ZJYBB,0.6054324788621025
+Male,False,True,True,1,True,No,DSL,No,No,No,No,No,Yes,Month-to-month,False,Electronic check,80.0,80.0,1448-PWKYE,0.9592701154777427
+Female,False,False,True,31,True,Yes,DSL,No,No,No,No,Yes,No,Month-to-month,True,Credit card (automatic),86.55,2697.4,4911-BANWH,0.9219175864880372
+Female,False,False,False,5,True,No,DSL,Yes,No,No,Yes,No,No,Month-to-month,False,Credit card (automatic),53.85,259.8,0870-VEMYL,0.7524113442020472
+Female,False,False,False,7,True,No,DSL,No,No,Yes,Yes,No,Yes,Month-to-month,False,Bank transfer (automatic),62.8,418.3,5309-TAIKL,0.5520555718441534
+Male,False,False,True,1,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,True,Mailed check,19.45,19.45,1725-MIMXW,0.5871662727063334
+Female,False,False,False,1,True,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,True,Electronic check,81.95,81.95,2004-OCQXK,0.7307071989491903
+Male,False,False,False,7,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,True,Mailed check,18.95,130.55,1386-ZIKUV,0.5613236708555907
+Female,False,False,False,4,True,No,DSL,No,No,No,No,Yes,No,Month-to-month,True,Electronic check,79.0,303.15,8752-STIVR,0.9776886150970747
+Male,False,True,False,47,True,Yes,DSL,No,Yes,Yes,No,No,No,Month-to-month,True,Bank transfer (automatic),83.35,4065.0,6173-ITPWD,0.9012582972582973
+Female,False,False,False,2,False,No phone service,DSL,No,No,No,No,Yes,Yes,Month-to-month,True,Electronic check,45.25,85.5,2737-WFVYW,0.9536545449101123
+Female,True,False,False,1,False,No phone service,DSL,No,No,No,No,No,No,Month-to-month,True,Electronic check,25.2,25.2,1768-ZAIFU,0.9883919870789208
+Male,False,False,False,1,True,No,DSL,No,No,No,No,Yes,Yes,Month-to-month,True,Electronic check,88.35,88.35,3722-WPXTK,0.9746736953971715
+Male,True,True,False,7,True,Yes,DSL,No,No,No,No,No,No,Month-to-month,True,Mailed check,74.4,527.9,8699-ASUFO,0.8661020307438713
+Male,False,False,False,1,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,18.9,18.9,9975-SKRNR,0.6028766546083107
+Female,False,True,True,3,True,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,False,Mailed check,19.65,60.65,1465-WCZVT,0.5829125504952808
+Male,True,False,False,1,True,No,DSL,No,No,No,No,Yes,No,Month-to-month,True,Electronic check,79.1,79.1,8580-AECUZ,0.9945782889426957
